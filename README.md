@@ -18,6 +18,6 @@ For the statistical models, the two main scrips are BinaryPGLMM.R and MCMCglmm.R
 
 Please contact me via email with any enquiries and I will happily assist. Thank you for reading and your interest in my work.
 
-Current institutional email: jacob [dot] palmer [at] zoo [dot] ox [dot] ac [dot] uk
+Current institutional email: jacob [dot] palmer [at] biology [dot] ox [dot] ac [dot] uk
 
 Personal email: jdpalmer40 [at] gmail [dot] com
